@@ -14,6 +14,10 @@
 | 🌐 **Cloudflare Pages**（推荐） | 👉 **[点击即玩](https://entropylab.pages.dev/)** |
 | 📄 **GitHub Pages** | 👉 [点击即玩](https://compume.github.io/entropy-lab/) |
 
+📱 **扫二维码体验**：
+
+<img src="QRcode_e1.jpeg" alt="扫码体验熵增实验室" width="200" />
+
 或本地直接打开 `index.html` —— 零依赖，开箱即玩。
 
 ---
@@ -88,6 +92,7 @@ npx serve .
 entropy-lab/
 ├── index.html              # 游戏主入口（单文件，开箱即玩）
 ├── bgm.mp3                 # 背景音乐（compume 原创）
+├── QRcode_e1.jpeg          # 二维码（扫码体验）
 ├── LICENSE                 # MIT 许可证（代码）
 ├── README.md               # 本文件
 ├── CONTRIBUTING.md         # 贡献指南
