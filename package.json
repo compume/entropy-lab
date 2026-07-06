@@ -3,7 +3,7 @@
   "version": "3.6.9",
   "description": "基于香农熵的物理模拟游戏 | A Shannon Entropy Physics Simulation Game",
   "license": "MIT",
-  "author": "Entropy Lab Contributors",
+  "author": "compume",
   "repository": {
     "type": "git",
     "url": "https://github.com/compume/entropy-lab.git"
@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/compume/entropy-lab/issues"
   },
-  "homepage": "https://compume.github.io/entropy-lab/",
+  "homepage": "https://entropylab.pages.dev/",
   "keywords": [
     "physics",
     "simulation",

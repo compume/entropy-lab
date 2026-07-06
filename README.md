@@ -9,7 +9,10 @@
 
 ## 🎮 在线体验
 
-👉 **[点击即玩](https://compume.github.io/entropy-lab/)**（GitHub Pages 部署）
+| 平台 | 链接 |
+|------|------|
+| 🌐 **Cloudflare Pages**（推荐） | 👉 **[点击即玩](https://entropylab.pages.dev/)** |
+| 📄 **GitHub Pages** | 👉 [点击即玩](https://compume.github.io/entropy-lab/) |
 
 或本地直接打开 `index.html` —— 零依赖，开箱即玩。
 
@@ -83,10 +86,12 @@ npx serve .
 
 ```
 entropy-lab/
-├── index.html              # 主入口（单文件，开箱即玩）
-├── LICENSE                 # MIT 许可证
+├── index.html              # 游戏主入口（单文件，开箱即玩）
+├── bgm.mp3                 # 背景音乐（compume 原创）
+├── LICENSE                 # MIT 许可证（代码）
 ├── README.md               # 本文件
 ├── CONTRIBUTING.md         # 贡献指南
+├── CREDITS.md              # 素材版权说明
 ├── package.json            # 项目元信息
 ├── .gitignore              # Git 忽略规则
 ├── docs/
@@ -157,14 +162,15 @@ entropy-lab/
 ## 📄 许可证
 
 - **代码**：MIT License —— 详见 [LICENSE](LICENSE)
-- **素材**：Emoji 图标为 Unicode 标准；背景音乐 `bgm.mp3` 需自行确认版权
+- **背景音乐** `bgm.mp3`：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) —— compume 原创，详见 [CREDITS.md](CREDITS.md)
+- **其他素材**：Emoji 图标为 Unicode 标准，无版权限制
 
 ---
 
 ## 🌟 特别说明
 
 - **存档系统**：游戏进度保存在浏览器本地（localStorage），清除浏览器数据会丢失进度
-- **音频文件**：`bgm.mp3` 需要确认版权。如果是原创，建议补充作者信息；如非原创，请替换或移除
+- **音频文件**：`bgm.mp3` 为作者 **compume** 原创音乐，采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，详见 [CREDITS.md](CREDITS.md)
 - **浏览器兼容**：推荐 Chrome 90+ / Firefox 90+ / Safari 15+ / Edge 90+
 
 ---
