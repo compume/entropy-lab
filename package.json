@@ -1,0 +1,36 @@
+{
+  "name": "entropy-lab",
+  "version": "3.6.9",
+  "description": "基于香农熵的物理模拟游戏 | A Shannon Entropy Physics Simulation Game",
+  "license": "MIT",
+  "author": "Entropy Lab Contributors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/entropy-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourname/entropy-lab/issues"
+  },
+  "homepage": "https://yourname.github.io/entropy-lab/",
+  "keywords": [
+    "physics",
+    "simulation",
+    "entropy",
+    "shannon-entropy",
+    "particle",
+    "game",
+    "html5",
+    "canvas",
+    "thermodynamics",
+    "educational"
+  ],
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Single-file HTML game - no build step needed. Open index.html directly.'",
+    "preview": "npx serve ."
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16"
+  }
+}
