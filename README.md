@@ -9,7 +9,7 @@
 
 ## 🎮 在线体验
 
-👉 **[点击即玩](https://yourname.github.io/entropy-lab/)**（GitHub Pages 部署）
+👉 **[点击即玩](https://compume.github.io/entropy-lab/)**（GitHub Pages 部署）
 
 或本地直接打开 `index.html` —— 零依赖，开箱即玩。
 
@@ -33,7 +33,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourname/entropy-lab.git
+git clone https://github.com/compume/entropy-lab.git
 cd entropy-lab
 
 # 直接打开

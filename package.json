@@ -6,12 +6,12 @@
   "author": "Entropy Lab Contributors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/entropy-lab.git"
+    "url": "https://github.com/compume/entropy-lab.git"
   },
   "bugs": {
-    "url": "https://github.com/yourname/entropy-lab/issues"
+    "url": "https://github.com/compume/entropy-lab/issues"
   },
-  "homepage": "https://yourname.github.io/entropy-lab/",
+  "homepage": "https://compume.github.io/entropy-lab/",
   "keywords": [
     "physics",
     "simulation",
